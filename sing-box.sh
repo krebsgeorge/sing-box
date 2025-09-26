@@ -313,7 +313,7 @@ cat > "${config_dir}" << EOF
       "private_key": "COAYqKrAXaQIGL8+Wkmfe39r1tMMR80JWHVaF443XFQ=",
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": [134, 63, 85]
-    }
+    },
     {
       "type": "direct",
       "tag": "direct-ipv4",
